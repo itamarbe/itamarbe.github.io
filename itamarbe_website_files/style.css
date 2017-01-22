@@ -248,9 +248,7 @@ hr.soft {
   padding-top: 10px;
 }
 .publ li {
-  border: 1px solid #CCC;
-  padding: 5px;
-  margin: 5px 2px;
+  margin: 0px 6px 0px 0px;
   display: inline-block;
 }
 .pubwrap {
