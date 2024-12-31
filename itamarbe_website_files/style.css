@@ -97,6 +97,7 @@ li {
 #timeline {
   font-size: 20px;
   font-weight: 300;
+  padding: 20px
 }
 @media (min-width: 768px) {
   .timelineitem:nth-child(odd) {
